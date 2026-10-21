@@ -10,7 +10,7 @@ Simula telemetria de una huerta con Docker, ingresa eventos Kafka en Fabric y pr
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white" alt="Python 3.12">
   <img src="https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white" alt="Docker Compose">
   <img src="https://img.shields.io/badge/Microsoft-Fabric-0F6CBD?logo=microsoftfabric&logoColor=white" alt="Microsoft Fabric">
-  <img src="https://img.shields.io/badge/Streaming-Kafka-231F20?logo=kafka&logoColor=white"  alt="Kafka">
+  <img src="https://img.shields.io/badge/Streaming-Kafka-231F20?logo=kafka&logoColor=white" alt="Kafka">
 </p>
 
 **Proyecto educativo reproducible** · Eventstream · Lakehouse · Notebook · Pipeline · Power BI
