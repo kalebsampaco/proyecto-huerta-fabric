@@ -1,0 +1,8 @@
+.env
+.git
+.gitignore
+README.md
+fabric/
+__pycache__/
+*.py[cod]
+.venv
