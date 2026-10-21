@@ -42,8 +42,13 @@ Simula telemetria de una huerta con Docker, ingresa eventos Kafka en Fabric y pr
 
 La guia completa de creacion manual, reporte y capturas esta mas abajo. **Nunca subas `.env` ni capturas con claves visibles.**
 
+## Presentacion para la exposicion
+
+Descarga [Presentacion_Huerta_Fabric.pptx](docs/Presentacion_Huerta_Fabric.pptx). Contiene 12 diapositivas en espanol, capturas reales del proyecto, diagramas y notas para el expositor. El generador editable y sus instrucciones estan en [`presentation/README.md`](presentation/README.md).
+
 ## Tabla de contenidos
 
+- [Presentacion para la exposicion](#presentacion-para-la-exposicion)
 - [Arquitectura](#arquitectura)
 - [Componentes](#componentes)
 - [Requisitos](#requisitos)
@@ -52,7 +57,7 @@ La guia completa de creacion manual, reporte y capturas esta mas abajo. **Nunca 
 - [Ejecucion del productor](#ejecucion-del-productor)
 - [Capas medallion y pipeline](#capas-medallion-y-pipeline)
 - [Modelo semantico y reporte](#modelo-semantico-y-reporte)
-- [Capturas para documentar](#capturas-para-documentar)
+- [Galeria del proyecto](#galeria-del-proyecto)
 - [Seguridad y limites](#seguridad-y-limites)
 - [Solucion de problemas](#solucion-de-problemas)
 - [Estructura del repositorio](#estructura-del-repositorio)

@@ -1,0 +1,15 @@
+{
+  "name": "huerta-fabric-presentation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generador de la presentacion del proyecto Huerta IoT y Microsoft Fabric",
+  "scripts": {
+    "build": "node generate.cjs"
+  },
+  "dependencies": {
+    "pptxgenjs": "4.0.1"
+  },
+  "overrides": {
+    "image-size": "2.0.4"
+  }
+}
